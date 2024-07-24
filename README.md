@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # companion
 
 A new Flutter project.
@@ -15,3 +16,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # companiON
+=======
+# companiON
+>>>>>>> e3edd464f693f0e7dd5a9e6bad591bef06b8993d
