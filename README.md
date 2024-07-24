@@ -11,9 +11,11 @@ Welcome to **CompaniON**, your go-to meetup app for finding people to do activit
 
 ## Screenshots
 
-![Screenshot](https://i.ibb.co/m4FRTpT/Screenshot-1721833732.png)
-![Screenshot](https://i.ibb.co/PxP8LMJ/Screenshot-1721833747.png)
-![Screenshot](https://i.ibb.co/FBpd207/Screenshot-1721833740.png)
+<p align="center">
+  <img src="https://i.ibb.co/m4FRTpT/Screenshot-1721833732.png" width="200" />
+  <img src="https://i.ibb.co/PxP8LMJ/Screenshot-1721833747.png" width="200" />
+  <img src="https://i.ibb.co/FBpd207/Screenshot-1721833740.png" width="200" />
+</p>
 
 ## Getting Started
 
